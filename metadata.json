@@ -3,6 +3,7 @@
   "symbol": "fUSDT",
   "decimals": 6,
   "description": "Flash USDT - A fake stablecoin for testing.",
-  "image": "https://cryptologos.cc/logos/tether-usdt-logo.png",
+  "image": "https://raw.githubusercontent.com/richmfspectrix/FlashUSDT/main/usdt.png",
   "price": "1.00"
 }
+
