@@ -1,0 +1,8 @@
+{
+  "name": "Flash USDT",
+  "symbol": "fUSDT",
+  "decimals": 6,
+  "description": "Flash USDT - A fake stablecoin for testing.",
+  "image": "https://cryptologos.cc/logos/tether-usdt-logo.png",
+  "price": "1.00"
+}
